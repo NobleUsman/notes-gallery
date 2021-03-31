@@ -1,0 +1,13 @@
+Login details for Online Notes Gallery:
+
+
+Admin Login ---->
+
+username: admin
+password: adminroot
+
+
+User Login ----->
+
+username:  user1
+password:  hello123
